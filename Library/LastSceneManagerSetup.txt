@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Polkadot Unity SDK/DemoExplorer/DemoExplorer.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
